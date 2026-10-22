@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/aoun-abbas-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/aounkazmi-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/FAST--NUCES-Lahore-24C6DC?style=for-the-badge" alt="FAST NUCES"/>
-<img src="https://komarev.com/ghpvc/?username=aounkazmi-dev&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aounkazmi-dev&style=flat-square)
 
 </div>
 
