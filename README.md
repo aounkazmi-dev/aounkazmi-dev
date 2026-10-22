@@ -27,7 +27,7 @@ class Aoun:
         self.role      = "CS Undergrad @ FAST-NUCES Lahore"
         self.focus     = ["Generative AI", "RAG", "AI Agents", "Backend Systems"]
         self.building  = "The engineering layer around AI, not just the models"
-        self.gpa       = "3.68 / 4.00 (Dean's List x3)"
+        self.gpa       = "3.5+ / 4.00 (Dean's List x3)"
         self.mantra    = "Build → Learn → Ship → Improve"
 ```
 
