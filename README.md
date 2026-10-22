@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Aoun%20Abbas&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20Progress&descSize=22&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=720&lines=Building+RAG+pipelines+%26+agentic+workflows;LLM+apps+%E2%80%A2+Tool+Calling+%E2%80%A2+MCP;FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+Vector+Search;Building+%E2%86%92+Learning+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=800&lines=Machine+Learning+%26+Deep+Learning+Solutions;Generative+AI+%26+LLM+Applications;RAG+Pipelines+%26+Agentic+Workflows;Tool+Calling+%E2%80%A2+MCP+%E2%80%A2+LangGraph;Full-Stack+Development+%E2%80%A2+FastAPI+%E2%80%A2+React;Building+%E2%86%92+Learning+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Typing SVG" />
 </a>
 
 <br/>
