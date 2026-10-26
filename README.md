@@ -1,209 +1,138 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=240&section=header&text=Aoun%20Abbas&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer&descSize=22&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16302D&height=210&section=header&text=AOUN%20ABBAS&fontSize=56&fontColor=E6EDF3&fontAlignY=40&desc=AI%20ENGINEERING%20%20%2F%20%20BACKEND%20SYSTEMS&descSize=16&descAlignY=64&descColor=7EE7C1" width="100%" alt="Aoun Abbas — AI engineering and backend systems" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=800&lines=Machine+Learning+%26+Deep+Learning+Solutions;Generative+AI+%26+LLM+Applications;RAG+Pipelines+%26+Agentic+Workflows;Tool+Calling+%E2%80%A2+MCP+%E2%80%A2+LangGraph;Full-Stack+Development+%E2%80%A2+FastAPI+%E2%80%A2+React;Building+%E2%86%92+Learning+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Typing SVG" />
-</a>
+<br />
+<br />
 
-<br/>
+**Turning data, models, and ideas into useful products.**
 
-<a href="https://www.linkedin.com/in/aoun-abbas-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/aounkazmi-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/FAST--NUCES-Lahore-24C6DC?style=for-the-badge" alt="FAST NUCES"/>
+CS undergraduate at FAST-NUCES Lahore · Generative AI · RAG · Agentic workflows
 
-![Profile Views](https://komarev.com/ghpvc/?username=aounkazmi-dev&style=flat-square)
+<br />
+
+<a href="https://www.linkedin.com/in/aoun-abbas-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-7EE7C1?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/aounkazmi-dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7EE7C1?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="Explore my repositories" /></a>
+
+<br />
+<br />
+
+[About](#about) &nbsp; / &nbsp; [Selected work](#selected-work) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Learning](#learning) &nbsp; / &nbsp; [Connect](#connect)
 
 </div>
 
-<br/>
+<br />
 
-## 👋 About Me
+## About
 
-```python
-class Aoun:
-    def __init__(self):
-        self.role      = "CS Undergrad @ FAST-NUCES Lahore"
-        self.focus     = ["Generative AI", "RAG", "AI Agents", "Backend Systems"]
-        self.building  = "The engineering layer around AI, not just the models"
-        self.gpa       = "3.5+ / 4.00 (Dean's List x3)"
-        self.mantra    = "Build → Learn → Ship → Improve"
-```
+I'm Aoun, a computer science student interested in the engineering that makes AI useful: retrieval, tool use, data processing, APIs, evaluation, and deployment.
 
-I go beyond model training and focus on what makes AI **actually work in production**: **RAG pipelines, agentic workflows, tool calling, APIs, data systems, evaluation, and deployment.**
+I build applications that connect language models to documents, datasets, and practical workflows. Alongside AI, I enjoy building the backend systems and interfaces that bring a product together.
 
-<br/>
+> **Build → Learn → Ship → Improve**
 
-## 🧠 What I Build
+<br />
 
-<div align="center">
-
-| 🤖 AI / ML | ⚙️ AI Engineering | 🗄️ Data & Backend |
-|:---|:---|:---|
-| Machine Learning | LangChain / LangGraph | Python & SQL |
-| Deep Learning | Tool Calling & MCP | Pandas / NumPy |
-| NLP & Transformers | Vector Search (Chroma / FAISS) | DuckDB / PostgreSQL |
-| LLM Applications | FastAPI LLM APIs | REST APIs |
-| RAG Systems & Agents | Model Evaluation | System Design |
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
+## Selected work
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 🎤 AskOne AI
-**AI resume interviewer**
-
-Analyzes an uploaded resume and runs a contextual interview using retrieval-augmented generation.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Chroma-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-`Llama 3.3` `Gemini Embeddings`
-
-**[→ View Repository](https://github.com/aounkazmi-dev/AskOne)**
-
+<td width="50%" valign="top">
+<h3>01 / DataBuddy</h3>
+<p><strong>Ask your data. Understand the answer.</strong></p>
+<p>An AI data analyst that turns questions into SQL queries, statistical analysis, and interactive charts through a LangGraph agent workflow.</p>
+<p><code>LangGraph</code> <code>DuckDB</code> <code>Pandas</code> <code>Plotly</code></p>
+<p><a href="https://databuddyhere.streamlit.app/"><strong>Open app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/aounkazmi-dev/DataBuddy">Source code</a></p>
 </td>
-<td width="33%" valign="top">
-
-### 📊 DataBuddy
-**Agentic AI data analyst**
-
-Loads datasets, generates analysis, runs SQL and statistical operations, and returns insights through a structured LangGraph workflow.
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-**[→ Try the Live Demo](https://databuddyhere.streamlit.app/)**
-
+<td width="50%" valign="top">
+<h3>02 / AskOne</h3>
+<p><strong>Interview practice, grounded in your resume.</strong></p>
+<p>Upload a resume, work through a structured technical interview, and download a personalized feedback report. Built with retrieval-augmented generation.</p>
+<p><code>LangChain</code> <code>Chroma</code> <code>Groq</code> <code>Streamlit</code></p>
+<p><a href="https://askone.onrender.com"><strong>Open app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/aounkazmi-dev/AskOne">Source code</a></p>
 </td>
-<td width="33%" valign="top">
-
-### 🐝 DueBee
-**Full-stack bill reminder system**
-
-Production-style web app for bills and automated reminders: auth, scheduled jobs, email notifications, PostgreSQL backend.
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-**[→ View Repository](https://github.com/aounkazmi-dev/DueBee)**
-
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / DueBee</h3>
+<p><strong>A clearer view of bills and due dates.</strong></p>
+<p>A full-stack bill tracker with account authentication, automated email reminders, spending insights, and statistical bill forecasts.</p>
+<p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
+<p><a href="https://duebee-chi.vercel.app"><strong>Open app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/aounkazmi-dev/DueBee">Source code</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Beyond the featured work</h3>
+<p><strong>Learning through implementation.</strong></p>
+<p>Explore my machine learning projects, C++ applications, and problem-solving practice.</p>
+<p><a href="https://github.com/aounkazmi-dev/Laptop-price-prediction">Laptop price prediction ↗</a></p>
+<p><a href="https://github.com/aounkazmi-dev/News-classifier">News classifier ↗</a></p>
+<p><a href="https://github.com/aounkazmi-dev?tab=repositories"><strong>Browse all repositories →</strong></a></p>
 </td>
 </tr>
 </table>
 
-<br/>
+<br />
 
-## 🔄 How My AI Systems Work
+## Toolkit
 
-```mermaid
-flowchart LR
-    A[📄 User Input<br/>Docs / Data / Query] --> B[🔎 Retrieval<br/>Embeddings + Vector DB]
-    B --> C[🧠 LLM Reasoning<br/>Llama / Gemini]
-    C --> D{🛠️ Tool Needed?}
-    D -- Yes --> E[⚙️ Tools<br/>SQL · APIs · Code]
-    E --> C
-    D -- No --> F[✅ Grounded Answer]
-    F --> G[📈 Evaluate & Improve]
-    G -.-> B
-```
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · C++ · JavaScript · SQL |
+| **AI & machine learning** | TensorFlow · scikit-learn · NLP · Transformers |
+| **LLM applications** | LangChain · LangGraph · RAG · Tool calling · MCP |
+| **Retrieval & data** | Chroma · FAISS · DuckDB · Pandas · NumPy |
+| **Backend & storage** | FastAPI · REST APIs · PostgreSQL |
+| **Interfaces & tools** | React · Tailwind CSS · Streamlit · Plotly · Docker · Git |
 
-<br/>
+<br />
 
-## 🛠️ Tech Stack
+## Learning
 
-<div align="center">
+My current focus is building a deeper understanding of how AI systems behave beyond the initial prototype:
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,react,nodejs,fastapi,postgres,docker,git,github,tailwind,tensorflow,sklearn,pandas,numpy&perline=8" alt="skills" />
+- **Retrieval quality** — embeddings, search strategies, and RAG evaluation.
+- **Agent design** — tool selection, workflow orchestration, and multi-agent patterns.
+- **Model foundations** — deep learning, NLP, transformer architecture, and inference.
+- **Production engineering** — backend architecture, deployment, and MLOps.
 
-<br/><br/>
+<br />
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-24C6DC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+## Education
 
-</div>
+**BS Computer Science · FAST-NUCES Lahore**  
+2024–2028 · GPA: **3.5+ / 4.00** · Dean's List for three consecutive semesters
 
-<br/>
+**Machine Learning Specialization**  
+Andrew Ng · DeepLearning.AI
 
-## 📈 GitHub Stats
+<br />
 
-<div align="center">
+<details>
+<summary><strong>GitHub activity</strong></summary>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aounkazmi-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0f0c29" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aounkazmi-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+<br />
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aounkazmi-dev&bg_color=0D1117&color=7EE7C1&line=7EE7C1&point=E6EDF3&area=true&area_color=16302D&hide_border=true" width="100%" alt="Aoun's GitHub contribution activity graph" />
 
-<img src="https://streak-stats.demolab.com?user=aounkazmi-dev&theme=tokyonight&hide_border=true&background=0f0c29" height="170" />
+[View my contributions and repositories on GitHub →](https://github.com/aounkazmi-dev)
 
-<br/>
+</details>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aounkazmi-dev&theme=tokyo-night&hide_border=true&bg_color=0f0c29&area=true" width="95%" />
+<br />
 
-</div>
-
-<br/>
-
-## 📚 Currently Learning
-
-```text
-Advanced ML  →  Deep Learning & NLP  →  LLMs & Transformers
-      →  RAG & Retrieval Systems  →  Agentic AI & Tool Use
-      →  AI System Design & Production Engineering
-```
-
-- 🔬 LLM architecture and inference
-- 🎯 RAG evaluation and retrieval optimization
-- 🕸️ Agent architectures and multi-agent workflows
-- 🏗️ AI system design and backend architecture
-- 🚢 MLOps and production AI
-
-<br/>
-
-## 🎓 Education & Certifications
+---
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🏛️ **FAST-NUCES Lahore** | BS Computer Science · 2024 – 2028 |
-| ⭐ **GPA** | 3.5+ / 4.00 · Dean's List, 3 consecutive semesters |
-| 📜 **Machine Learning Specialization** | Andrew Ng · DeepLearning.AI |
+<h2>Connect</h2>
+
+<p>Interested in AI engineering, useful products, or a project we could build together?</p>
+
+<p><a href="https://www.linkedin.com/in/aoun-abbas-dev"><strong>Let's talk on LinkedIn ↗</strong></a></p>
+
+<br />
+
+<sub>Curiosity in. Useful software out.</sub>
 
 </div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-Interested in **AI engineering, GenAI, ML systems, or building useful AI products**? Let's talk.
-
-<a href="https://www.linkedin.com/in/aoun-abbas-dev"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/aounkazmi-dev"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
