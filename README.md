@@ -1,110 +1,138 @@
-<div align="center">
+<!-- Custom artwork lives in assets/. Previous design: archive/navy-mint-profile. -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:16302D&height=210&section=header&text=AOUN%20ABBAS&fontSize=56&fontColor=E6EDF3&fontAlignY=40&desc=AI%20ENGINEERING%20%20%2F%20%20BACKEND%20SYSTEMS&descSize=16&descAlignY=64&descColor=7EE7C1" width="100%" alt="Aoun Abbas — AI engineering and backend systems" />
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Aoun Abbas — AI engineering, backend systems, and useful software. CS undergraduate at FAST-NUCES Lahore." />
+</p>
 
-<br />
-<br />
-
-**Turning data, models, and ideas into useful products.**
-
-CS undergraduate at FAST-NUCES Lahore · Generative AI · RAG · Agentic workflows
-
-<br />
-
-<a href="https://www.linkedin.com/in/aoun-abbas-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-7EE7C1?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="Connect on LinkedIn" /></a>
-&nbsp;
-<a href="https://github.com/aounkazmi-dev?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-7EE7C1?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="Explore my repositories" /></a>
-
-<br />
-<br />
-
-[About](#about) &nbsp; / &nbsp; [Selected work](#selected-work) &nbsp; / &nbsp; [Toolkit](#toolkit) &nbsp; / &nbsp; [Learning](#learning) &nbsp; / &nbsp; [Connect](#connect)
-
-</div>
+<p align="center">
+  <a href="#01--the-builder"><strong>THE BUILDER</strong></a> &nbsp; / &nbsp;
+  <a href="#02--selected-systems"><strong>SELECTED SYSTEMS</strong></a> &nbsp; / &nbsp;
+  <a href="#03--the-toolkit"><strong>TOOLKIT</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/aoun-abbas-dev"><strong>LET'S TALK ↗</strong></a>
+</p>
 
 <br />
 
-## About
+## 01 / The builder
 
-I'm Aoun, a computer science student interested in the engineering that makes AI useful: retrieval, tool use, data processing, APIs, evaluation, and deployment.
+**I'm Aoun. I connect models to the things people actually need to do.**
 
-I build applications that connect language models to documents, datasets, and practical workflows. Alongside AI, I enjoy building the backend systems and interfaces that bring a product together.
-
-> **Build → Learn → Ship → Improve**
-
-<br />
-
-## Selected work
+That means turning documents into interview practice, datasets into answers, and everyday tasks into usable software. My focus is the engineering around AI: retrieval, tools, data systems, APIs, evaluation, and deployment.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 / DataBuddy</h3>
-<p><strong>Ask your data. Understand the answer.</strong></p>
-<p>An AI data analyst that turns questions into SQL queries, statistical analysis, and interactive charts through a LangGraph agent workflow.</p>
-<p><code>LangGraph</code> <code>DuckDB</code> <code>Pandas</code> <code>Plotly</code></p>
-<p><a href="https://databuddyhere.streamlit.app/"><strong>Open app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/aounkazmi-dev/DataBuddy">Source code</a></p>
+<h3>What I work on</h3>
+<p>Generative AI · Retrieval-augmented generation · Agent workflows · Backend systems</p>
 </td>
 <td width="50%" valign="top">
-<h3>02 / AskOne</h3>
-<p><strong>Interview practice, grounded in your resume.</strong></p>
-<p>Upload a resume, work through a structured technical interview, and download a personalized feedback report. Built with retrieval-augmented generation.</p>
-<p><code>LangChain</code> <code>Chroma</code> <code>Groq</code> <code>Streamlit</code></p>
-<p><a href="https://askone.onrender.com"><strong>Open app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/aounkazmi-dev/AskOne">Source code</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / DueBee</h3>
-<p><strong>A clearer view of bills and due dates.</strong></p>
-<p>A full-stack bill tracker with account authentication, automated email reminders, spending insights, and statistical bill forecasts.</p>
-<p><code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
-<p><a href="https://duebee-chi.vercel.app"><strong>Open app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/aounkazmi-dev/DueBee">Source code</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Beyond the featured work</h3>
-<p><strong>Learning through implementation.</strong></p>
-<p>Explore my machine learning projects, C++ applications, and problem-solving practice.</p>
-<p><a href="https://github.com/aounkazmi-dev/Laptop-price-prediction">Laptop price prediction ↗</a></p>
-<p><a href="https://github.com/aounkazmi-dev/News-classifier">News classifier ↗</a></p>
-<p><a href="https://github.com/aounkazmi-dev?tab=repositories"><strong>Browse all repositories →</strong></a></p>
+<h3>How I work</h3>
+<p>Build something useful. Understand where it breaks. Learn from it. Make the next version better.</p>
 </td>
 </tr>
 </table>
 
 <br />
 
-## Toolkit
+## 02 / Selected systems
 
-| Area | Technologies |
+Three projects. Three different engineering problems. **Explore the apps or follow the implementation.**
+
+<a href="https://github.com/aounkazmi-dev/DataBuddy">
+  <img src="./assets/databuddy.svg" width="100%" alt="DataBuddy — an AI data analyst using LangGraph, DuckDB, Pandas, and Plotly. Conceptual diagram of questions flowing into SQL, statistics, and charts." />
+</a>
+
+**DataBuddy** · Upload a CSV or Excel file, ask a question, and explore computed results with charts and explanations.
+
+**[Launch app ↗](https://databuddyhere.streamlit.app/)** &nbsp; · &nbsp; [Read the code](https://github.com/aounkazmi-dev/DataBuddy)
+
+<br />
+
+<a href="https://github.com/aounkazmi-dev/AskOne">
+  <img src="./assets/askone.svg" width="100%" alt="AskOne — resume-grounded interview practice using LangChain, Chroma, Groq, and Streamlit. Conceptual diagram of resume retrieval, contextual questions, and a feedback report." />
+</a>
+
+**AskOne** · Practice a structured technical interview grounded in your resume, then download personalized feedback.
+
+**[Launch app ↗](https://askone.onrender.com)** &nbsp; · &nbsp; [Read the code](https://github.com/aounkazmi-dev/AskOne)
+
+<br />
+
+<a href="https://github.com/aounkazmi-dev/DueBee">
+  <img src="./assets/duebee.svg" width="100%" alt="DueBee — a full-stack bill tracker built with React, FastAPI, PostgreSQL, and Tailwind. Conceptual diagram of tracked bills, scheduled checks, and email reminders." />
+</a>
+
+**DueBee** · Track bills with account-based access, automated email reminders, spending insights, and statistical forecasts.
+
+**[Launch app ↗](https://duebee-chi.vercel.app)** &nbsp; · &nbsp; [Read the code](https://github.com/aounkazmi-dev/DueBee) &nbsp; · &nbsp; [API docs](https://duebee-backend.onrender.com/docs)
+
+<br />
+
+<details>
+<summary><strong>Explore the rest of the work →</strong></summary>
+
+<br />
+
+| Project | What it explores |
+| :--- | :--- |
+| [Laptop price prediction](https://github.com/aounkazmi-dev/Laptop-price-prediction) | Machine learning for price prediction |
+| [News classifier](https://github.com/aounkazmi-dev/News-classifier) | Text classification and NLP |
+| [C++ projects](https://github.com/aounkazmi-dev?tab=repositories&q=&type=&language=c%2B%2B) | Programming fundamentals and application design |
+| [Problem-solving practice](https://github.com/aounkazmi-dev/neetcode-submissions) | Data structures and algorithms |
+
+[Browse every repository ↗](https://github.com/aounkazmi-dev?tab=repositories)
+
+</details>
+
+<br />
+
+## 03 / The toolkit
+
+| Layer | What I use |
 | :--- | :--- |
 | **Languages** | Python · C++ · JavaScript · SQL |
-| **AI & machine learning** | TensorFlow · scikit-learn · NLP · Transformers |
-| **LLM applications** | LangChain · LangGraph · RAG · Tool calling · MCP |
-| **Retrieval & data** | Chroma · FAISS · DuckDB · Pandas · NumPy |
-| **Backend & storage** | FastAPI · REST APIs · PostgreSQL |
-| **Interfaces & tools** | React · Tailwind CSS · Streamlit · Plotly · Docker · Git |
+| **Models & ML** | TensorFlow · scikit-learn · NLP · Transformers |
+| **Agents & retrieval** | LangChain · LangGraph · RAG · Tool calling · MCP · Chroma · FAISS |
+| **Data & analysis** | DuckDB · Pandas · NumPy · Plotly |
+| **APIs & storage** | FastAPI · REST APIs · PostgreSQL |
+| **Interfaces & delivery** | React · Tailwind CSS · Streamlit · Docker · Git |
 
 <br />
 
-## Learning
+## 04 / From input to useful output
 
-My current focus is building a deeper understanding of how AI systems behave beyond the initial prototype:
+The workflow I keep coming back to: find the right context, choose the right tools, and evaluate the result.
+
+<img src="./assets/workflow.svg" width="100%" alt="Conceptual AI engineering loop: understand input, retrieve relevant context, reason with a model, use SQL, code or APIs, then evaluate and iterate." />
+
+<br />
+
+## 05 / The next iteration
+
+<details open>
+<summary><strong>Learning in public</strong></summary>
 
 - **Retrieval quality** — embeddings, search strategies, and RAG evaluation.
-- **Agent design** — tool selection, workflow orchestration, and multi-agent patterns.
-- **Model foundations** — deep learning, NLP, transformer architecture, and inference.
+- **Agent design** — tool selection, orchestration, and multi-agent workflows.
+- **Model foundations** — deep learning, NLP, transformers, and inference.
 - **Production engineering** — backend architecture, deployment, and MLOps.
+
+</details>
 
 <br />
 
-## Education
+<details>
+<summary><strong>Education & foundations</strong></summary>
+
+<br />
 
 **BS Computer Science · FAST-NUCES Lahore**  
-2024–2028 · GPA: **3.5+ / 4.00** · Dean's List for three consecutive semesters
+2024–2028 · GPA **3.5+ / 4.00** · Dean's List for three consecutive semesters
 
 **Machine Learning Specialization**  
 Andrew Ng · DeepLearning.AI
+
+</details>
 
 <br />
 
@@ -113,26 +141,20 @@ Andrew Ng · DeepLearning.AI
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aounkazmi-dev&bg_color=0D1117&color=7EE7C1&line=7EE7C1&point=E6EDF3&area=true&area_color=16302D&hide_border=true" width="100%" alt="Aoun's GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aounkazmi-dev&bg_color=0B0E14&color=98A3B8&line=C4F566&point=B69BFF&area=true&area_color=26321C&hide_border=true" width="100%" alt="Aoun's GitHub contribution activity graph" />
 
-[View my contributions and repositories on GitHub →](https://github.com/aounkazmi-dev)
+[View contributions on GitHub ↗](https://github.com/aounkazmi-dev)
 
 </details>
 
 <br />
-
----
-
-<div align="center">
-
-<h2>Connect</h2>
-
-<p>Interested in AI engineering, useful products, or a project we could build together?</p>
-
-<p><a href="https://www.linkedin.com/in/aoun-abbas-dev"><strong>Let's talk on LinkedIn ↗</strong></a></p>
-
 <br />
 
-<sub>Curiosity in. Useful software out.</sub>
+<a href="https://www.linkedin.com/in/aoun-abbas-dev">
+  <img src="./assets/connect.svg" width="100%" alt="Have an idea worth building? Connect with Aoun Abbas on LinkedIn." />
+</a>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aoun-abbas-dev"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/aounkazmi-dev?tab=repositories"><strong>Explore my repositories ↗</strong></a>
+</p>

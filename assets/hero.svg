@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Aoun Abbas — AI engineering, backend systems, useful software</title>
+  <desc id="desc">A custom dark systems-lab cover with oversized lettering and an animated diagram connecting retrieval, reasoning, tools, and evaluation. Computer science undergraduate at FAST-NUCES Lahore.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#B3BFD0" stroke-opacity=".055"/></pattern>
+    <radialGradient id="aura"><stop stop-color="#C4F566" stop-opacity=".12"/><stop offset="1" stop-color="#C4F566" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge"><stop stop-color="#C4F566"/><stop offset=".6" stop-color="#B69BFF"/><stop offset="1" stop-color="#252D3A"/></linearGradient>
+    <style>
+      .sans {font-family:Inter,Segoe UI,Arial,sans-serif}
+      .mono {font-family:Consolas,Menlo,monospace}
+      .signal {stroke-dasharray:8 14;animation:travel 16s linear infinite}
+      .core {animation:breathe 5s ease-in-out infinite;transform-origin:924px 266px}
+      @keyframes travel {to {stroke-dashoffset:-264}}
+      @keyframes breathe {50% {opacity:.5}}
+      @media (prefers-reduced-motion:reduce) {.signal,.core{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="560" rx="22" fill="#0B0E14"/>
+  <rect x="1" y="1" width="1198" height="558" rx="21" fill="url(#grid)" stroke="#252D3A"/>
+  <path d="M24 1H1176" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="928" cy="270" r="250" fill="url(#aura)"/>
+  <g class="mono" font-size="14" letter-spacing="2">
+    <text x="48" y="51" fill="#C4F566">A / A</text>
+    <text x="128" y="51" fill="#98A3B8">PERSONAL SYSTEMS LAB</text>
+    <text x="1152" y="51" fill="#98A3B8" text-anchor="end">@AOUNKAZMI-DEV</text>
+  </g>
+  <path d="M48 76H1152" stroke="#252D3A"/>
+  <g class="sans" font-weight="800" letter-spacing="-6">
+    <text x="40" y="225" fill="#F3F6FC" font-size="142">AOUN</text>
+    <text x="40" y="358" fill="#C4F566" font-size="142">ABBAS<tspan fill="#F3F6FC">.</tspan></text>
+  </g>
+  <g class="sans" font-size="24" fill="#F3F6FC">
+    <text x="48" y="406">Engineering the systems</text>
+    <text x="48" y="438">that make AI useful.</text>
+  </g>
+  <g fill="none">
+    <circle cx="924" cy="266" r="157" stroke="#252D3A"/>
+    <circle cx="924" cy="266" r="117" stroke="#C4F566" stroke-opacity=".18"/>
+    <circle cx="924" cy="266" r="157" stroke="#C4F566" stroke-opacity=".7" class="signal"/>
+    <path d="M924 109V198M1081 266H993M924 423V334M767 266H855" stroke="#46513B"/>
+    <path d="M866 208L982 324M982 208L866 324" stroke="#252D3A"/>
+  </g>
+  <g fill="#0B0E14" stroke="#C4F566" stroke-opacity=".45">
+    <rect x="866" y="94" width="116" height="30" rx="15"/>
+    <rect x="1021" y="251" width="116" height="30" rx="15"/>
+    <rect x="866" y="408" width="116" height="30" rx="15"/>
+    <rect x="710" y="251" width="116" height="30" rx="15"/>
+  </g>
+  <g class="mono" text-anchor="middle" font-size="12" letter-spacing="1" fill="#C4F566">
+    <text x="924" y="114">RETRIEVE</text><text x="1079" y="271">REASON</text>
+    <text x="924" y="428">EVALUATE</text><text x="768" y="271">USE TOOLS</text>
+  </g>
+  <rect x="858" y="200" width="132" height="132" rx="32" fill="#121C16" stroke="#C4F566" stroke-opacity=".7"/>
+  <rect x="868" y="210" width="112" height="112" rx="24" fill="none" stroke="#C4F566" stroke-opacity=".18" class="core"/>
+  <path d="M891 285L909 245L927 285M898 273H920M940 245V285M935 245H945M935 285H945" fill="none" stroke="#C4F566" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#B69BFF"><circle cx="1035" cy="155" r="4"/><circle cx="813" cy="377" r="4"/></g>
+  <path d="M48 476H1152" stroke="#252D3A"/>
+  <g class="mono" font-size="13" fill="#98A3B8">
+    <text x="48" y="516"><tspan fill="#C4F566">FOCUS</tspan><tspan dx="14">GEN AI / RAG / AGENTS / BACKEND</tspan></text>
+    <text x="1152" y="516" text-anchor="end">CS @ FAST-NUCES LAHORE</text>
+  </g>
+  <path d="M118 466V486M108 476H128M1110 66V86M1100 76H1120" stroke="#98A3B8" stroke-opacity=".5"/>
+</svg>

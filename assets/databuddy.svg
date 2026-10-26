@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">DataBuddy — questions into analysis</title>
+  <desc id="desc">A conceptual illustration of DataBuddy connecting uploaded datasets to SQL, statistics, and charts through an agent workflow.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C4F566" stop-opacity=".08"/><stop offset="1" stop-color="#C4F566" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#252D3A" stroke-opacity=".24"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="22" fill="#0B0E14" stroke="#252D3A" stroke-width="2"/>
+  <rect x="610" y="2" width="588" height="416" rx="20" fill="url(#grid)"/>
+  <rect x="610" y="2" width="588" height="416" rx="20" fill="url(#wash)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="42" y="46" fill="#C4F566" font-size="14" font-weight="700" letter-spacing="3">01 / AGENTIC ANALYTICS</text>
+    <text x="42" y="118" fill="#F3F6FC" font-size="62" font-weight="700" letter-spacing="-2">DataBuddy</text>
+    <text x="42" y="160" fill="#C4F566" font-size="24">Your dataset. A conversation.</text>
+    <text x="42" y="212" fill="#98A3B8" font-size="20">Plain-language questions become SQL,</text>
+    <text x="42" y="243" fill="#98A3B8" font-size="20">statistics, and interactive charts.</text>
+    <path d="M42 282H548" stroke="#252D3A"/>
+    <text x="42" y="316" fill="#E0E7F2" font-size="17">LangGraph</text><circle cx="151" cy="310" r="2" fill="#C4F566"/>
+    <text x="165" y="316" fill="#E0E7F2" font-size="17">DuckDB</text><circle cx="248" cy="310" r="2" fill="#C4F566"/>
+    <text x="262" y="316" fill="#E0E7F2" font-size="17">Pandas</text><circle cx="337" cy="310" r="2" fill="#C4F566"/>
+    <text x="351" y="316" fill="#E0E7F2" font-size="17">Plotly</text>
+    <text x="42" y="378" fill="#98A3B8" font-size="13" letter-spacing="2">DATA IN. UNDERSTANDING OUT.</text>
+    <text x="641" y="46" fill="#98A3B8" font-size="12" letter-spacing="2">CONCEPT / TOOL FLOW</text>
+    <rect x="640" y="66" width="516" height="56" rx="10" fill="#121722" stroke="#313D2A"/>
+    <circle cx="664" cy="94" r="5" fill="#C4F566"/>
+    <text x="682" y="101" fill="#E0E7F2" font-size="17">Ask a question about your dataset</text>
+    <path d="M898 122V145M761 159V145H1033V159" fill="none" stroke="#C4F566" stroke-opacity=".65" stroke-width="2"/>
+    <rect x="640" y="159" width="242" height="128" rx="11" fill="#121722" stroke="#252D3A"/>
+    <text x="658" y="187" fill="#C4F566" font-size="13" font-weight="700" letter-spacing="1">SQL TOOL</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="16"><text x="658" y="222" fill="#F3F6FC">SELECT</text><text x="727" y="222" fill="#98A3B8">...</text><text x="658" y="249" fill="#F3F6FC">FROM</text><text x="706" y="249" fill="#C4F566">dataset</text></g>
+    <rect x="914" y="159" width="242" height="128" rx="11" fill="#121722" stroke="#252D3A"/>
+    <text x="932" y="187" fill="#C4F566" font-size="13" font-weight="700" letter-spacing="1">STATS + CHARTS</text>
+    <path d="M936 264H1135M936 213H1135M936 239H1135" stroke="#252D3A"/>
+    <rect x="949" y="241" width="25" height="23" rx="3" fill="#C4F566" fill-opacity=".35"/><rect x="987" y="225" width="25" height="39" rx="3" fill="#C4F566" fill-opacity=".5"/><rect x="1025" y="211" width="25" height="53" rx="3" fill="#C4F566" fill-opacity=".7"/><rect x="1063" y="231" width="25" height="33" rx="3" fill="#C4F566" fill-opacity=".5"/><rect x="1101" y="203" width="25" height="61" rx="3" fill="#C4F566"/>
+    <path d="M761 287V304H1033V287M898 304V326" fill="none" stroke="#C4F566" stroke-opacity=".65" stroke-width="2"/>
+    <rect x="640" y="326" width="516" height="54" rx="10" fill="#C4F566" fill-opacity=".08" stroke="#C4F566" stroke-opacity=".38"/>
+    <text x="664" y="359" fill="#C4F566" font-size="17">↳</text><text x="691" y="359" fill="#E0E7F2" font-size="17">Results, explained in plain language</text>
+  </g>
+</svg>

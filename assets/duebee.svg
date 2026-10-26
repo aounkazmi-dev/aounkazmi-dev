@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">DueBee — bills, reminders, and a clearer picture</title>
+  <desc id="desc">A conceptual illustration of DueBee tracking bills and connecting scheduled checks to automated email reminders.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFBA7A" stop-opacity=".08"/><stop offset="1" stop-color="#FFBA7A" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#252D3A" stroke-opacity=".24"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="22" fill="#0B0E14" stroke="#252D3A" stroke-width="2"/>
+  <rect x="610" y="2" width="588" height="416" rx="20" fill="url(#grid)"/>
+  <rect x="610" y="2" width="588" height="416" rx="20" fill="url(#wash)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="42" y="46" fill="#FFBA7A" font-size="14" font-weight="700" letter-spacing="3">03 / FULL-STACK ENGINEERING</text>
+    <text x="42" y="118" fill="#F3F6FC" font-size="62" font-weight="700" letter-spacing="-2">DueBee</text>
+    <text x="42" y="160" fill="#FFBA7A" font-size="24">Less bill chaos. More clarity.</text>
+    <text x="42" y="212" fill="#98A3B8" font-size="20">Track bills, automate email reminders,</text>
+    <text x="42" y="243" fill="#98A3B8" font-size="20">and see patterns in your spending.</text>
+    <path d="M42 282H548" stroke="#252D3A"/>
+    <text x="42" y="316" fill="#E0E7F2" font-size="17">React</text><circle cx="106" cy="310" r="2" fill="#FFBA7A"/>
+    <text x="120" y="316" fill="#E0E7F2" font-size="17">FastAPI</text><circle cx="206" cy="310" r="2" fill="#FFBA7A"/>
+    <text x="220" y="316" fill="#E0E7F2" font-size="17">PostgreSQL</text><circle cx="336" cy="310" r="2" fill="#FFBA7A"/>
+    <text x="350" y="316" fill="#E0E7F2" font-size="17">Tailwind</text>
+    <text x="42" y="378" fill="#98A3B8" font-size="13" letter-spacing="2">AN EVERYDAY PROBLEM. ENGINEERED.</text>
+    <text x="641" y="46" fill="#98A3B8" font-size="12" letter-spacing="2">CONCEPT / REMINDER PIPELINE</text>
+    <rect x="640" y="66" width="516" height="173" rx="12" fill="#121722" stroke="#252D3A"/>
+    <text x="662" y="98" fill="#E0E7F2" font-size="18" font-weight="700">Your bills, together</text>
+    <path d="M662 117H1134" stroke="#252D3A"/>
+    <rect x="662" y="135" width="31" height="31" rx="7" fill="#FFBA7A" fill-opacity=".12"/>
+    <path d="M679 140L673 151H679L676 162L684 148H678Z" fill="#FFBA7A"/>
+    <text x="709" y="157" fill="#E0E7F2" font-size="17">Electricity</text><text x="1054" y="157" fill="#98A3B8" font-size="14">Tracked</text>
+    <rect x="662" y="184" width="31" height="31" rx="7" fill="#FFBA7A" fill-opacity=".12"/>
+    <path d="M668 196Q677 187 687 196M672 201Q677 196 682 201" fill="none" stroke="#FFBA7A" stroke-width="2" stroke-linecap="round"/><circle cx="677" cy="206" r="1.5" fill="#FFBA7A"/>
+    <text x="709" y="206" fill="#E0E7F2" font-size="17">Internet</text><text x="1054" y="206" fill="#98A3B8" font-size="14">Tracked</text>
+    <path d="M755 239V271M750 264L755 271L760 264" fill="none" stroke="#FFBA7A" stroke-opacity=".6" stroke-width="2"/>
+    <rect x="640" y="276" width="231" height="55" rx="10" fill="#121722" stroke="#252D3A"/>
+    <circle cx="665" cy="303" r="9" fill="none" stroke="#FFBA7A" stroke-width="1.5"/><path d="M665 297V303L669 306" fill="none" stroke="#FFBA7A" stroke-width="1.5"/>
+    <text x="684" y="310" fill="#E0E7F2" font-size="17">Scheduled checks</text>
+    <rect x="925" y="276" width="231" height="55" rx="10" fill="#FFBA7A" fill-opacity=".08" stroke="#FFBA7A" stroke-opacity=".38"/>
+    <rect x="944" y="296" width="21" height="15" rx="2" fill="none" stroke="#FFBA7A" stroke-width="1.5"/><path d="M944 297L954 305L965 297" fill="none" stroke="#FFBA7A" stroke-width="1.5"/>
+    <text x="976" y="310" fill="#E0E7F2" font-size="17">Email reminders</text>
+    <path d="M871 303H920M913 298L920 303L913 308" fill="none" stroke="#FFBA7A" stroke-width="2"/>
+    <text x="640" y="376" fill="#98A3B8" font-size="16">Accounts + bill history + statistical forecasts</text>
+  </g>
+</svg>

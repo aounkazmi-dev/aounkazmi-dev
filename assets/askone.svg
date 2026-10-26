@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">AskOne — interview practice with context</title>
+  <desc id="desc">A conceptual illustration of a resume grounding interview questions through retrieval, followed by a personalized feedback report.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B69BFF" stop-opacity=".08"/><stop offset="1" stop-color="#B69BFF" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#252D3A" stroke-opacity=".24"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="22" fill="#0B0E14" stroke="#252D3A" stroke-width="2"/>
+  <rect x="610" y="2" width="588" height="416" rx="20" fill="url(#grid)"/>
+  <rect x="610" y="2" width="588" height="416" rx="20" fill="url(#wash)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="42" y="46" fill="#B69BFF" font-size="14" font-weight="700" letter-spacing="3">02 / RESUME-GROUNDED RAG</text>
+    <text x="42" y="118" fill="#F3F6FC" font-size="62" font-weight="700" letter-spacing="-2">AskOne</text>
+    <text x="42" y="160" fill="#B69BFF" font-size="24">Better practice starts with context.</text>
+    <text x="42" y="212" fill="#98A3B8" font-size="20">Your resume shapes the interview.</text>
+    <text x="42" y="243" fill="#98A3B8" font-size="20">Your answers shape the feedback.</text>
+    <path d="M42 282H548" stroke="#252D3A"/>
+    <text x="42" y="316" fill="#E0E7F2" font-size="17">LangChain</text><circle cx="148" cy="310" r="2" fill="#B69BFF"/>
+    <text x="162" y="316" fill="#E0E7F2" font-size="17">Chroma</text><circle cx="245" cy="310" r="2" fill="#B69BFF"/>
+    <text x="259" y="316" fill="#E0E7F2" font-size="17">Groq</text><circle cx="316" cy="310" r="2" fill="#B69BFF"/>
+    <text x="330" y="316" fill="#E0E7F2" font-size="17">Streamlit</text>
+    <text x="42" y="378" fill="#98A3B8" font-size="13" letter-spacing="2">RETRIEVE. INTERVIEW. IMPROVE.</text>
+    <text x="641" y="46" fill="#98A3B8" font-size="12" letter-spacing="2">CONCEPT / INTERVIEW FLOW</text>
+    <rect x="640" y="76" width="151" height="195" rx="12" fill="#121722" stroke="#252D3A"/>
+    <path d="M665 107H726L764 145V244H665Z" fill="#171D2A" stroke="#3D3554"/>
+    <path d="M726 107V145H764" fill="none" stroke="#B69BFF" stroke-opacity=".5"/>
+    <text x="682" y="167" fill="#B69BFF" font-size="13" font-weight="700">RESUME</text>
+    <path d="M682 187H745M682 199H736M682 211H745M682 223H723" stroke="#596078" stroke-width="3" stroke-linecap="round"/>
+    <path d="M791 174H815V122H833" fill="none" stroke="#B69BFF" stroke-width="2" stroke-dasharray="4 5"/>
+    <path d="M825 117L833 122L825 127" fill="none" stroke="#B69BFF" stroke-width="2"/>
+    <rect x="839" y="76" width="317" height="92" rx="12" fill="#B69BFF" fill-opacity=".09" stroke="#B69BFF" stroke-opacity=".4"/>
+    <text x="857" y="102" fill="#B69BFF" font-size="12" letter-spacing="1.5" font-weight="700">RETRIEVED CONTEXT</text>
+    <text x="857" y="133" fill="#E0E7F2" font-size="18">Projects · Skills · Experience</text>
+    <path d="M998 168V190" stroke="#B69BFF" stroke-width="2"/>
+    <rect x="839" y="190" width="317" height="81" rx="12" fill="#121722" stroke="#252D3A"/>
+    <text x="857" y="219" fill="#E0E7F2" font-size="17">Contextual interview questions</text>
+    <text x="857" y="247" fill="#98A3B8" font-size="15">A structured, adaptive conversation</text>
+    <path d="M716 271V304H998V271M858 304V326" fill="none" stroke="#B69BFF" stroke-opacity=".6" stroke-width="2"/>
+    <rect x="640" y="326" width="516" height="54" rx="10" fill="#B69BFF" fill-opacity=".08" stroke="#B69BFF" stroke-opacity=".38"/>
+    <text x="664" y="359" fill="#B69BFF" font-size="17">↳</text><text x="691" y="359" fill="#E0E7F2" font-size="17">Personalized feedback · Downloadable report</text>
+  </g>
+</svg>

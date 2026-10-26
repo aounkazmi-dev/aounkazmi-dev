@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Have an idea worth building? Let's connect.</title>
+  <desc id="desc">Connect with Aoun Abbas on LinkedIn to talk about AI engineering, backend systems, and useful products.</desc>
+  <defs><linearGradient id="g"><stop stop-color="#C4F566"/><stop offset="1" stop-color="#A9DB4E"/></linearGradient></defs>
+  <rect width="1200" height="240" rx="18" fill="url(#g)"/>
+  <circle cx="1130" cy="280" r="230" fill="none" stroke="#0B0E14" stroke-opacity=".1"/>
+  <circle cx="1130" cy="280" r="170" fill="none" stroke="#0B0E14" stroke-opacity=".1"/>
+  <text x="44" y="44" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="2" fill="#344522">BUILD / LEARN / SHIP / IMPROVE</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="750" font-size="53" letter-spacing="-2" fill="#0B0E14"><text x="40" y="111">Have an idea</text><text x="40" y="171">worth building?</text></g>
+  <rect x="845" y="87" width="307" height="68" rx="34" fill="#0B0E14"/>
+  <text x="992" y="129" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="650" fill="#C4F566">Let's connect</text>
+  <path d="M1094 112H1109V127M1108 113L1092 129" fill="none" stroke="#C4F566" stroke-width="2"/>
+  <text x="44" y="213" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="1" fill="#344522">AOUN ABBAS / AI ENGINEERING + BACKEND SYSTEMS</text>
+</svg>

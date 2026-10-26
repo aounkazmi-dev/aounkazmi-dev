@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-labelledby="title desc">
+  <title id="title">My AI engineering approach</title>
+  <desc id="desc">Understand the input, retrieve context, reason with a model, use tools, and evaluate the result. A conceptual workflow with a feedback loop.</desc>
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#252D3A"/></pattern>
+    <style>
+      text{font-family:Consolas,Menlo,monospace}
+      .flow{stroke-dasharray:5 7;animation:flow 8s linear infinite}
+      @keyframes flow{to{stroke-dashoffset:-144}}
+      @media(prefers-reduced-motion:reduce){.flow{animation:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="286" rx="18" fill="#0B0E14"/>
+  <rect x="1" y="1" width="1198" height="284" rx="17" stroke="#252D3A" fill="url(#dots)"/>
+  <text x="36" y="40" fill="#98A3B8" font-size="13" letter-spacing="2">THE ENGINEERING LOOP / CONCEPTUAL WORKFLOW</text>
+  <g stroke="#C4F566" stroke-opacity=".6" fill="none" class="flow"><path d="M212 120H270M442 120H500M672 120H730M902 120H960"/><path d="M1046 164V220H126V164"/></g>
+  <g fill="#121722" stroke="#252D3A"><rect x="40" y="76" width="172" height="88" rx="12"/><rect x="270" y="76" width="172" height="88" rx="12"/><rect x="500" y="76" width="172" height="88" rx="12"/><rect x="730" y="76" width="172" height="88" rx="12"/><rect x="960" y="76" width="172" height="88" rx="12"/></g>
+  <g font-size="20" fill="#F3F6FC"><text x="60" y="113">01 / INPUT</text><text x="290" y="113">02 / FIND</text><text x="520" y="113">03 / THINK</text><text x="750" y="113">04 / ACT</text><text x="980" y="113">05 / TEST</text></g>
+  <g font-size="13" fill="#98A3B8"><text x="60" y="140">Docs / data / query</text><text x="290" y="140">Relevant context</text><text x="520" y="140">Model reasoning</text><text x="750" y="140">SQL / code / APIs</text><text x="980" y="140">Evaluate results</text></g>
+  <rect x="442" y="201" width="320" height="38" rx="19" fill="#172016" stroke="#34472A"/>
+  <text x="602" y="225" text-anchor="middle" fill="#C4F566" font-size="13" letter-spacing="1">MEASURE. LEARN. ITERATE.</text>
+</svg>
